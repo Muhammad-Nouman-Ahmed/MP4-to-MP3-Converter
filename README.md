@@ -11,9 +11,9 @@ This converter converts MP4 files from the folder to MP3 at specified location. 
 
 
 ## Requirement
-*Pip install moviepy
-*pip install flask
-*pip install tkinter
+* Pip install moviepy
+* pip install flask
+* pip install tkinter
 
 
 ## Google Form
